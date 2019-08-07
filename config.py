@@ -10,8 +10,8 @@ except Exception:
 VERSION = "1.5.3"
 TAG_NAME = "{git_commit}".format(git_commit=utils.current_git_commit(os.path.dirname(__file__)), )
 
-REPOSITORY = "https://github.com/usc-isi-i2/dsbox-primitives"
-PACAKGE_NAME = "dsbox-primitives"
+REPOSITORY = "https://github.com/rishu-13/fastmap"
+PACAKGE_NAME = "fastmap"
 
 D3M_PERFORMER_TEAM = 'ISI'
 D3M_CONTACT = "mailto:kyao@isi.edu"
